@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.circle{
+	padding:5px 8px;
+	border:1px gray solid;
+	border-radius:17px;
+}
+.line{
+	font-size:1px;
+	vertical-align:middle;
+	
+	padding:0px 60px 0px 0px;
+	border:2px gray solid;
+	line-height:0px;
+}
+div{
+	margin:30px;
+	
+}
